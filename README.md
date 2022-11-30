@@ -1,6 +1,8 @@
 # Knightly
 Knightly is a simple 2D game where a knight has to eliminate his enemies.
 
+![Knightly Screenshot](Knightly_Screenshot.png)
+
 ## Assets used:
 Background Music: "The Verdant Grove" by Tallbeard Studios (Abstraction Music) (https://tallbeard.itch.io/music-loop-bundle)
 
