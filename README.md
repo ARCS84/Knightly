@@ -1,6 +1,8 @@
 # Knightly
 Knightly is a simple 2D game where a knight has to eliminate his enemies.
 
+### **To play the game, please go to this game's [itch.io page](https://arcs84.itch.io/knightly)**
+
 ![Knightly Screenshot](Knightly_Screenshot.png)
 
 ## Assets used:
