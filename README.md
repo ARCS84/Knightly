@@ -8,6 +8,4 @@ Sprite Animations: "Fantasy Knight" by aamatniekss (https://aamatniekss.itch.io/
 
 Sound Effects: Minifantasy - Dungeon Audio Pack by Leohpaz (https://leohpaz.itch.io/minifantasy-dungeon-sfx-pack)
 
-Tiles: Stringstar Fields by Trixie (https://trixelized.itch.io/starstring-fields)
-
-and, Sunny Land Pixel Game Art by ansimuz (https://ansimuz.itch.io/sunny-land-pixel-game-art)
+Tiles: Stringstar Fields by Trixie (https://trixelized.itch.io/starstring-fields), and Sunny Land Pixel Game Art by ansimuz (https://ansimuz.itch.io/sunny-land-pixel-game-art)
